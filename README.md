@@ -1,7 +1,7 @@
 # Fetch API project
 
-Student name: Phu An Doan
-Student ID: 300311334
+- Student name: Phu An Doan
+- Student ID: 300311334
 
 In this project, JavaScript will be used to make a request of a public API (Application Programming Interface). The data for this project is retrieved from Random User Generator API (https://randomuser.me/).
 
